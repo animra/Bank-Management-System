@@ -4,3 +4,13 @@ In this project we use object oriented features which are:
 - Classes
 - Inheritance
 - Composition 
+Menu of the program is given below:
+- To create account.
+- To make transactions
+- To deposit
+- To check balance
+- To go to the main menu
+- To exit
+# Implementation
+This project is implemented in Visual Studio (2010) by using C++ language. You can download Visual Studio from this link: https://www.freesoftwarefiles.com/development/microsoft-visual-studio-2010-professional-free-download/. There is also general overview for Microsoft Visual Studio 2010 Professional.
+**Note:** You can download C++ file here. Simply download visual studio and upload file there and run the project. For further assistance there is word file containing report of bank management system in github repoistory.
